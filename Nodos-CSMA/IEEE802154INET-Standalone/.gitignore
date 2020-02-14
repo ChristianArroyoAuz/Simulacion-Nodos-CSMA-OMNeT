@@ -1,0 +1,32 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+/src/util/mcpsData_m.h
+/src/util/MPDU_m.cc
+/src/util/MPDU_m.h
+/src/util/PPDU_m.cc
+/src/util/PPDU_m.h
+/src/util/mcpsData_m.cc
+/src/util/mcpsData_m.h
+/out
+/simulations/results
+/simulations/.tkenvlog
+/src/Makefile
